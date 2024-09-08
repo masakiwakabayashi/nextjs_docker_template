@@ -14,7 +14,7 @@ docker compose exec next ash
 ## next_appディレクトリに移動
 
 ```
-cd next_app
+cd src
 ```
 
 ## プロジェクトを立ち上げる
